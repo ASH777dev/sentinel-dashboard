@@ -2,9 +2,9 @@
 
 Live observability console for **[Sentinel API](https://github.com/ASH777dev/sentinel-api)**, visualizing distributed Redis Lua sliding-window rate limits, rolling latency, and anomaly alerts over WebSockets.
 
-- **Live Dashboard:** `https://YOUR-VERCEL-URL.vercel.app`
+- **Live Dashboard:** `https://sentinel-dashboard-bay-three.vercel.app/`
 - **Backend Repository:** [ASH777dev/sentinel-api](https://github.com/ASH777dev/sentinel-api)
-- **Live API Docs:** `https://YOUR-RENDER-URL.onrender.com/docs`
+- **Live API Docs:** `https://sentinel-api-l9hc.onrender.com`
 
 ---
 
